@@ -7,7 +7,7 @@ Proyecto de datos que combina análisis histórico, modelado predictivo, automat
 **Publicado y operativo.** El dashboard se ejecuta como una aplicación web de Google Apps Script y el código técnico se conserva en esta carpeta.
 
 - [Abrir dashboard interactivo](https://script.google.com/macros/s/AKfycbzE26z7tcEbnwLPKSLLW8H_rK7UqwKV17rV8YBJVT4lB4slY0qorsf8cL4cnsys5ShGhw/exec)
-- [Ver presentación en el portafolio](https://jchernand3z19.github.io/Portafolio/#proyectos)
+- [Ver presentación en el portafolio](https://jchernandez-portfolio.github.io/Portafolio/#proyectos)
 
 ## Problema abordado
 
